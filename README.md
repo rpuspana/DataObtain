@@ -9,19 +9,17 @@
 
 ### Prerequisites
 
-- Windows 10 all versions 
+- Windows 10 
 - Microsoft Office 2010 or higher
-- C# 7
 - .Net 4.5 or higher that includes Windows Forms and Microsoft VSTO framework
 - Visual Studio 2017
+- Make sure that Excel supports COM Addins added to it and let's the Addin interact with Excel.
 
 ### How to use
 
-Make sure that Excel supports COM Addins added to it and let's the Addin interact with Excel.
+For testing this project you can use the excel files provided by me in the _input folder.
 
-For testing this project you can use the Excels provided by me in the _input folder
-
-In the current form your need Visual Studio 2017 to launch the application.
+In this present version of the application you will need Visual Studio to launch it.
 To do this:
 1. Build the code and press Start in Visual Studio.
 2. When Excel prompts you for a workbook to open, either choose a blank one to create your own Excel file or you can go in the project's _input folder and open one of the files there.
