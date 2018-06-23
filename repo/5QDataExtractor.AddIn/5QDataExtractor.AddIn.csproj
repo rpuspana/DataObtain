@@ -220,7 +220,7 @@
     <ManifestKeyFile>5QDataExtractor.AddIn_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>6153367C81410E90AFD5E687E55B0820C18FE4D3</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>A5886BC64F09008326254C4139A27151DD46DB2B</ManifestCertificateThumbprint>
   </PropertyGroup>
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
